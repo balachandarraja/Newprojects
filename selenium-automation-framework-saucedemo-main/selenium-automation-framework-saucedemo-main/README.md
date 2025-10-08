@@ -44,27 +44,7 @@ Installed:
 - Firefox
 - Microsoft Edge
 
-## Download and open project
 
-### Workaround 1
-
-#### Download project
-
-1. Click on the code button in this repository
-2. Select the Download Zip option
-3. Extract the .zip file with the **Extract here** option
-4. Place the project folder on the desired location
-
-### Workaround 2 - Gitbash
-
-1. Select the folder when you would like clone the project
-2. Open gitbash, copy and paste the following command
-
-```bash
-git clone https://github.com/Diegocortes15/selenium-automation-framework-saucedemo.git
-```
-
-![image](https://user-images.githubusercontent.com/60171460/215863587-4ee3772f-78ca-4320-ba45-50d281baec33.png)
 
 ## Run project
 
@@ -111,3 +91,4 @@ allure serve target/allure-results
 ```
 
 ![Animation 5 (1)](https://user-images.githubusercontent.com/60171460/215867864-3ec22fc7-46e5-4aca-8112-03ffcc8f6867.gif)
+
