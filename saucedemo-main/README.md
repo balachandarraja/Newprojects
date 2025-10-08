@@ -97,7 +97,7 @@ There does not seem to be a generally approved standard for directory structure 
 
 Clone the repository to your local computer
 ```
-git clone https://github.com/dionisggr/saucedemo.git
+git clone https://github.com/balachandarraja/saucedemo.git
 ```
 
 Use the package manager `npm` to install dependencies:
